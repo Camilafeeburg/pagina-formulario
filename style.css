@@ -1,10 +1,92 @@
 .caixa{
     border-radius: 1px;
-
+    background-color: rgb(218, 214, 214);
+    margin-top: 10px;
+    border: none;
+    display: block;
+    float: left;
+    height: 25px;
+    width: 400px;
 }
 .borda{
     background-color: white;
-    height: 400px;
+    height: 500px;
     width: 300px;
     margin-left: 35%;
+    box-shadow: 10px 2px 30px 3px;
+    border: none;
+}
+
+.usuario{
+    font-size: small;
+    margin-left: 15px;
+    margin-top: 20px;
+    display: block;
+    float: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.senha{
+    font-size: small;
+    margin-left: 15px;
+    margin-top: 15px;
+    display: block;
+    float: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Login{
+    font-size: xx-large;
+    color: rgb(57, 57, 112);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 15px;
+    display: block;
+    margin-left: 11px;
+    
+}
+.botao{
+    margin-left: 15px;
+    background-color: rgb(79, 79, 126);;
+    color: white;
+    padding: 5px 15px;
+    width: 275px;
+    height: 30px;
+    border: none;
+    margin-top: 25px;
+}
+#barra{
+    width: 270px;
+    margin-left: 15px;
+}
+.exibir{
+    margin-left: 190px;
+    font-size: smaller;
+    display: block;
+    margin-top: 185px;
+}
+
+.conta{
+    margin-left: 80px;
+    display: block;
+    margin-top: 40px;
+}
+.X{
+   margin-left: 300px   ;
+   background-color: white;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   border: none;
+   
+}
+.check{
+    margin-left: 190px;
+    margin-top: 44px;
+    display: block;
+    float: left;
+}
+.criar{
+    background-color: white;
+    font-size: small;
+    border: none;
+    color:  rgb(68, 68, 139);;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 95px;
+    margin-top: 25px;
 }
