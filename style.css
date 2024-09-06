@@ -13,7 +13,7 @@
     height: 500px;
     width: 300px;
     margin-left: 35%;
-    box-shadow: 10px 2px 30px 3px;
+    box-shadow: 5px 5px 30px 5px;
     border: none;
 }
 
@@ -40,7 +40,14 @@
     margin-top: 15px;
     display: block;
     margin-left: 11px;
-    
+}
+.Cadastrar{
+    font-size: xx-large;
+    color: rgb(57, 57, 112);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 15px;
+    display: block;
+    margin-left: 11px;
 }
 .botao{
     margin-left: 15px;
@@ -52,6 +59,16 @@
     border: none;
     margin-top: 25px;
 }
+.botao1{
+    margin-left: 15px;
+    background-color: rgb(79, 79, 126);;
+    color: white;
+    padding: 5px 15px;
+    width: 280px;
+    height: 30px;
+    border: none;
+    margin-top: 15px;
+}
 #barra{
     width: 270px;
     margin-left: 15px;
@@ -61,18 +78,42 @@
     font-size: smaller;
     display: block;
     margin-top: 185px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
+.exibir1{
+    margin-left: 190px;
+    font-size: smaller;
+    display: block;
+    margin-top: 253px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .conta{
     margin-left: 80px;
     display: block;
     margin-top: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.conta1{
+    margin-left: 95px;
+    display: block;
+    margin-top: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sistema{
+    background-color: white;
+    font-size: small;
+    border: none;
+    color:  rgb(68, 68, 139);;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 103px;
+    margin-top: 25px;
 }
 .X{
    margin-left: 300px   ;
    background-color: white;
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
    border: none;
+   
    
 }
 .check{
